@@ -5,9 +5,8 @@ import org.junit.jupiter.api.Test;
 
 class SuperComputerTests {
 
-	@Test
-	void testComplicatedComputationWithParameter0() {
-		TODO();
-	}
-
+  @Test
+  void testComplicatedComputationWithParameter0() {
+    TODO();
+  }
 }
